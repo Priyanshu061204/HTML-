@@ -1,0 +1,50 @@
+<div style="color: blue;">
+            Name:
+            &nbsp;&nbsp;&nbsp;&nbsp;<input type="text" placeholder="Enter Your Name">
+        </div>
+        <br>
+        <div style="color: blue;">
+            District:
+            &nbsp;<input type="text" placeholder="Enter Your District">
+        </div>
+        <br>
+        <div style="color: blue;">
+            State:
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" placeholder="Enter Your State">
+        </div>
+        <br>
+        <div style="color: blue;">
+            Age:
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="date" placeholder="Enter Your Age">
+        </div>
+        <br>
+        <div style="color: blue;">
+            DOB:
+            &nbsp;&nbsp;&nbsp;&nbsp;<input type="text" placeholder="Enter Your DOB">
+        </div>
+        <br>
+        <div style="color: blue;">
+            Email:
+            &nbsp;&nbsp;&nbsp;<input type="text" placeholder="Enter Your Email">
+        </div>
+        <br>
+        <div style="color: blue;">
+            Gender:
+            <div style="color: black;">
+                <input type="radio" name="gender">male 
+                <input type="radio" name="gender">female
+            </div>
+        </div>
+        <br>
+        <center><textarea rows="5" cols="100" placeholder="Your special Enquery"></textarea></center>
+        <style>
+            button{
+                background-color: white;
+                color: blue;
+            }
+        </style>
+        <center><button>SUBMIT</button></center>
+    </form>
+
+</body>
+</html>
